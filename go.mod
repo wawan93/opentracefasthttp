@@ -1,4 +1,4 @@
-module github.com/d7561985/opentracefasthttp
+module github.com/wawan93/opentracefasthttp
 
 go 1.12
 
